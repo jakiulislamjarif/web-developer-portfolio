@@ -67,6 +67,10 @@ nav a{
     margin-bottom:0;
     
 }
+main{
+    max-width:1140px;
+    margin:0 auto;
+}
 .banner-title{
     font-size:85px;
     font-weight:700;
@@ -103,4 +107,11 @@ text-align: center;
     text-align: center;
     color:#181818;
 
+}
+.about-info-container{
+    display:flex;
+    justify-content:space-around;
+}
+.about-info{
+    text-align:center;
 }
