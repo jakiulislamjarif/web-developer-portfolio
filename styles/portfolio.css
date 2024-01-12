@@ -181,4 +181,22 @@ footer{
     background:#FFF8F3;
     padding:130px 200px;
     margin-top:100px;
+    gap:100px;
+}
+.footer-column{
+    width:50%
+}
+.contract input,textarea{
+    display:block;
+    margin-bottom:24px;
+    padding:18px 35px;
+    border-radius:5px;
+    border:0;
+    background:#FFFFFF;
+    border:0;
+    width:100%;
+}
+contact
+.socail-links a{
+    margin-right:35px;
 }
